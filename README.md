@@ -1,4 +1,4 @@
-# uf-intro-mobile-robot
+# nd209-intro-mobile-robot
 
 <http://ais.informatik.uni-freiburg.de/teaching/ss20/robotics/>
 
